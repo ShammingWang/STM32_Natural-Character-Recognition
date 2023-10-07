@@ -8,6 +8,7 @@
 	4,按键KEY0(PE4)/KEY_UP(PA0)
 	5,W25Q128(SPI FLASH芯片,连接在SPI2上) 
 	6,ESP8266模块
+
 开发软件：
 	Keil
 
